@@ -4,7 +4,7 @@ To write a Python program using OpenCV to perform morphological operations such 
 
 The program performs the following operations:
 
-Image Erosion
+Image Erosion 
 
 Image Dilation
 
